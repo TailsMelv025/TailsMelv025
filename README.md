@@ -1,5 +1,5 @@
 - Hi, I’m Melvin, A.K.A. @TailsMelv025
-- I'm interested in ["science" 🧪; "technology",🖥️; "design",✏️; "gaming",🎮; "animation",📺]
+- I'm interested in ["science",🧪; "technology",🖥️; "design",✏️; "gaming",🎮; "animation",📺]
 - I'm always learning and currently it's ["Blender", "Figma", "CSS", "JavaScript", "Python"] 💡
 - I'm down for a chat and a nice little project ☕
 - And I'm @TailsMelv025 pretty much everywhere! 🎉
